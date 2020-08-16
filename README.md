@@ -1,10 +1,10 @@
 # Welcome, you can visit my websites:
 
-## Work in team:
+### Work in team:
 
 https://book-garden.netlify.app/
 
-## Work alone:
+### Work alone:
 
 https://learngeek.netlify.app/
 
