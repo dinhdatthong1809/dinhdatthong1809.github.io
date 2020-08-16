@@ -1,4 +1,11 @@
 # Welcome, you can visit my websites:
-https://learngeek.netlify.app/
+
+## Work in team:
 
 https://book-garden.netlify.app/
+
+## Work alone:
+
+https://learngeek.netlify.app/
+
+
